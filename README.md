@@ -1,4 +1,13 @@
-# matplotlib-challenge
+# Matplotlib Analysis of Anti-Cancer Pharmaceuticals
+
+## Compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens
+
+In this study, 250 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured.
+
+##Questions
+
+Answers
+
 
 Matplotlib Homework - The Power of Plots
 
