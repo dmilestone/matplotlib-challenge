@@ -1,12 +1,17 @@
 # Matplotlib Analysis of Anti-Cancer Pharmaceuticals
 
-## Compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens
+In this study, 250 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. 
 
-In this study, 250 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. Report findings of drugs' success in reducing tumor size.
 
 ## Questions
 
-Look across all generated figures and tables and write at least 3 observations or inferences that can be made from the data. 
+Report findings of drugs' success in reducing tumor size. Compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. Look across all generated figures and tables and write at least 3 observations or inferences that can be made from the data. 
+
+## Datasets
+Mouse data:
+https://github.com/dmilestone/matplotlib-challenge-cancer-drug-analysis/blob/master/data/Mouse_metadata.csv
+Study results from experiment:
+https://github.com/dmilestone/matplotlib-challenge-cancer-drug-analysis/blob/master/data/Study_results.csv
 
 ## Breakdown of Tasks
 
